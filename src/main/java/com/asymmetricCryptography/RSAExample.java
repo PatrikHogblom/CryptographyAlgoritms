@@ -1,4 +1,4 @@
-package asymmetricCryptography;
+package com.asymmetricCryptography;
 
 
 import javax.crypto.Cipher;
